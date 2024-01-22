@@ -19,7 +19,7 @@ pip install img2pdf
 ### Usage
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/MassDownloadManhwa.git
+   git clone https://github.com/Sourish25/Mass-Download-Manhwa-reaperscans-.git
    cd MassDownloadManhwa
    ```
 
